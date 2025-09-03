@@ -12,7 +12,7 @@ Un portafolio web personal creado durante mi aprendizaje de control de versiones
 CSS
 
 ## Autor
-[Autor] - Estudiante de [Carrera]
+[JoseFernandoSangayChacon] - Estudiante de [IngenieriaDeSistemas]
 
 ## Fecha
 [Fecha Actual]
